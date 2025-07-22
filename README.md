@@ -18,19 +18,9 @@ JavaScript
 Bootstrap 4**
 
 ## 📁 Folder Structure
-Food-And-Restaurant/
-│
-├── CSS/
-│ ├── style.css
-│ └── responsive.css
-│
-├── JS/
-│ └── main.js
-│
-├── images/
-│ └── (All project images)
-│
-└── index.html
+
+<img width="548" height="475" alt="image" src="https://github.com/user-attachments/assets/df7c9448-d9d4-4554-bab3-88e1b6c9c58f" />
+
 
 **Output/Images**
 
